@@ -1,0 +1,2 @@
+# imaged-based_video_summarizatoin
+nlp_team3_final_assignment
