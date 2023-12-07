@@ -1,4 +1,4 @@
-# nlp
+# 2023_Natural Language Processing
 2023년 자연어처리 3조 기말프로젝트
 
 ## 👉🏽 Member
