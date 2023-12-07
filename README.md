@@ -12,4 +12,4 @@
 Image-based_video_summarization <br>
 
 ## 👉🏽 Paper
-[NLP3조_이미지 기반 영상 요약.pdf](https://github.com/Yoon0717/image-based_video-summarization/files/13601265/NLP3._.pdf)
+[이미지 기반 영상 요약.pdf](https://github.com/Yoon0717/image-based_video-summarization/files/13602633/default.pdf)
