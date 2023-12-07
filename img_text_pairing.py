@@ -11,7 +11,7 @@ path = "C:/Users/sunp/Desktop/nlp/TS_105_Larva_S01_016/"
 csv = pd.read_csv("C:/Users/sunp/Desktop/nlp/lava_01_16.csv")
 texts = list(csv['text'])
 
-for i in range(212,len(csv['file_name'])):
+for i in range(len(csv['file_name'])):
     cv2.imshow(csv['file_name'][i], cv2.imread(path + csv['file_name'][i], cv2.IMREAD_COLOR))
     cv2.waitKey(0)
     texts[i] = input()
